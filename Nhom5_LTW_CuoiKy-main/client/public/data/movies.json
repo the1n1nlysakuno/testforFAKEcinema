@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "813477",
+    "tmdb_id": 813477,
+    "title": "Shin Kamen Rider",
+    "original_title": "シン・仮面ライダー",
+    "tagline": "Thay đổi. Chuyển hóa. Bảo vệ nhân loại.",
+    "genre": "Hành Động",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      },
+      {
+        "id": 878,
+        "name": "Phim Khoa Học Viễn Tưởng"
+      },
+      {
+        "id": 12,
+        "name": "Phim Phiêu Lưu"
+      }
+    ],
+    "duration": 121,
+    "age": "T16",
+    "release": "2023-03-18",
+    "rating": 6.9,
+    "emoji": "🦗",
+    "poster": "poster-night",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jfHTnM6eS6cA3x84UimGg2LZ6g8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/ccFavvHGfhA5yI32K0bzDjlyKSN.jpg",
+    "description": "Takeshi Hongo bị tổ chức tà ác SHOCKER cải tạo thành chiến binh người máy mang sức mạnh siêu nhiên. Cùng với Ruriko Midorikawa—một kẻ phản bội của chính tổ chức—cả hai trốn chạy khỏi những sát thủ tinh nhuệ và chiến đấu để bảo vệ phẩm giá con người trước âm mưu thống trị thế giới.",
+    "director": "庵野秀明",
+    "actors": "Ikematsu Sosuke, Hamabe Minami, 柄本佑, 森山未來",
+    "price": 90000,
+    "showtimes": [
+      "10:00",
+      "13:30",
+      "17:15",
+      "20:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Nhật"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "ZriPV8lhHsE",
+    "cast": [
+      {
+        "name": "Ikematsu Sosuke",
+        "character": "Takeshi Hongo / Kamen Rider",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNhgUAKfHdKQXhbhbAhKcRUHy30.jpg"
+      },
+      {
+        "name": "Hamabe Minami",
+        "character": "Ruriko Midorikawa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+      },
+      {
+        "name": "柄本佑",
+        "character": "Hayato Ichimonji / Kamen Rider No. 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8XyxsIKNuvwTSCnfXzlN6Bmc5aO.jpg"
+      },
+      {
+        "name": "森山未來",
+        "character": "Ichirō Midorikawa / Kamen Rider No. 0",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1oEMeQHiR9D5hmmXlHkD78da9rW.jpg"
+      },
+      {
+        "name": "西野七瀬",
+        "character": "Hiromi / Hachi Augment-01",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Y3OFMBXPmbfn94QSrSEN64lE0F.jpg"
+      },
+      {
+        "name": "手塚とおる",
+        "character": "Komori Augment-01",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pTh4Dc2qqdzRLYaWXEUQZp8bScA.jpg"
+      },
+      {
+        "name": "大森南朋",
+        "character": "Kumo Augment-01 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vksNisBd3SG6WNtBuIJzVXWRjhO.jpg"
+      },
+      {
+        "name": "本郷奏多",
+        "character": "Kamakiri Chameleon Augment-01",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BUmrqD3nbER1XV3ASSwFZitwwv.jpg"
+      }
+    ]
+  },
+  {
+    "id": "557",
+    "tmdb_id": 557,
+    "title": "Người Nhện",
+    "original_title": "Spider-Man",
+    "tagline": "Sức mạnh càng lớn, trách nhiệm càng cao.",
+    "genre": "Hành Động",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      },
+      {
+        "id": 878,
+        "name": "Phim Khoa Học Viễn Tưởng"
+      }
+    ],
+    "duration": 121,
+    "age": "T13",
+    "release": "2002-05-01",
+    "rating": 7.3,
+    "emoji": "🕷️",
+    "poster": "poster-time",
+    "poster_url": "https://image.tmdb.org/t/p/w500/w55KSeyhH3nXjzx7AhbNq0DO3zt.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+    "description": "Sau khi bị một con nhện biến đổi gen cắn trong chuyến tham quan trường học, cậu học sinh trung học nhút nhát Peter Parker bất ngờ sở hữu năng lực phi thường. Khi bi kịch ập đến gia đình, cậu quyết định dùng sức mạnh của mình để bảo vệ thành phố New York trước tên ác nhân Green Goblin.",
+    "director": "Sam Raimi",
+    "actors": "Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco",
+    "price": 85000,
+    "showtimes": [
+      "09:30",
+      "13:00",
+      "16:30",
+      "20:00"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "t06RUxPbp_c",
+    "cast": [
+      {
+        "name": "Tobey Maguire",
+        "character": "Spider-Man / Peter Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Green Goblin / Norman Osborn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "character": "Mary Jane Watson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+      },
+      {
+        "name": "James Franco",
+        "character": "Harry Osborn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+      },
+      {
+        "name": "Cliff Robertson",
+        "character": "Ben Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+      },
+      {
+        "name": "Rosemary Harris",
+        "character": "May Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Mu02enwaF8dFuT195f7esILXns.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "J. Jonah Jameson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Joe Manganiello",
+        "character": "Flash Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mTdACmitdrwor0Nrv5sr0u123vZ.jpg"
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "tmdb_id": 155,
+    "title": "Kỵ Sĩ Bóng Đêm",
+    "original_title": "The Dark Knight",
+    "tagline": "Chào mừng đến với thế giới không có luật lệ.",
+    "genre": "Hành Động",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      },
+      {
+        "id": 80,
+        "name": "Phim Hình Sự"
+      },
+      {
+        "id": 53,
+        "name": "Phim Gây Cấn"
+      }
+    ],
+    "duration": 152,
+    "age": "T13",
+    "release": "2008-07-16",
+    "rating": 8.5,
+    "emoji": "🦇",
+    "poster": "poster-night",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7EfSqviKvXwbiGhUjHyUBGVdoiW.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+    "description": "Với sự hỗ trợ của Trung úy Jim Gordon và Công tố viên Harvey Dent, Batman nỗ lực quét sạch các băng đảng tội phạm khỏi Gotham. Thế nhưng sự xuất hiện của tên tội phạm điên loạn tự xưng là Joker đã đẩy toàn bộ thành phố vào hỗn loạn và thử thách ranh giới đạo đức của Người Dơi.",
+    "director": "Christopher Nolan",
+    "actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+    "price": 90000,
+    "showtimes": [
+      "10:15",
+      "14:00",
+      "18:00",
+      "21:15"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "zHEQs2KB25s",
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Bruce Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+      },
+      {
+        "name": "Heath Ledger",
+        "character": "Joker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2z2bURSg7nuMsN9P2s61e2RvNz.jpg"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "character": "Harvey Dent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5EFQvRHlpP1Iaw2e6vjOaBny6DV.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Alfred",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+      },
+      {
+        "name": "Maggie Gyllenhaal",
+        "character": "Rachel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Lucius Fox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+      },
+      {
+        "name": "Monique Gabriela Curnen",
+        "character": "Ramirez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+      }
+    ]
+  },
+  {
+    "id": "299534",
+    "tmdb_id": 299534,
+    "title": "Biệt Đội Siêu Anh Hùng: Hồi Kết",
+    "original_title": "Avengers: Endgame",
+    "tagline": "Một phần của hành trình là hồi kết.",
+    "genre": "Hành Động",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Phim Phiêu Lưu"
+      },
+      {
+        "id": 878,
+        "name": "Phim Khoa Học Viễn Tưởng"
+      },
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      }
+    ],
+    "duration": 181,
+    "age": "T13",
+    "release": "2019-04-24",
+    "rating": 8.2,
+    "emoji": "🛡️",
+    "poster": "poster-space",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8go3YE9sBMQaCXEx23j6BAfeuxd.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "description": "Sau cú búng tay tàn khốc của Thanos khiến một nửa sinh linh vũ trụ tan biến, những thành viên Avengers còn sống sót tập hợp lần cuối để thực hiện kế hoạch du hành thời gian đầy mạo hiểm nhằm đảo ngược mọi thứ và khôi phục trật tự vũ trụ.",
+    "director": "Anthony Russo",
+    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "price": 95000,
+    "showtimes": [
+      "09:00",
+      "13:15",
+      "17:30",
+      "21:00"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "4sZj4aeYUCA",
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Steve Rogers / Captain America",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Bruce Banner / Hulk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "character": "Thor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Natasha Romanoff / Black Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2I2xAQmL87k5YswCnc4vHjpXxE0.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Clint Barton / Hawkeye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Thanos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "James Rhodes / War Machine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+      }
+    ]
+  },
+  {
+    "id": "280",
+    "tmdb_id": 280,
+    "title": "Kẻ Hủy Diệt 2: Ngày Phán Xét",
+    "original_title": "Terminator 2: Judgment Day",
+    "tagline": "Lần này có hai kẻ hủy diệt.",
+    "genre": "Hành Động",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      },
+      {
+        "id": 53,
+        "name": "Phim Gây Cấn"
+      },
+      {
+        "id": 878,
+        "name": "Phim Khoa Học Viễn Tưởng"
+      }
+    ],
+    "duration": 137,
+    "age": "T16",
+    "release": "1991-07-03",
+    "rating": 8.1,
+    "emoji": "🤖",
+    "poster": "poster-time",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hTNJIoXwU6hQgmOoqc7jfLH1EBj.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+    "description": "Mười năm sau cuộc chạm trán đầu tiên, một người máy T-1000 làm từ kim loại lỏng được gửi về quá khứ để ám sát cậu bé John Connor—thủ lĩnh tương lai của loài người. Một người máy T-800 đã được lập trình lại cũng quay về để bảo vệ John và mẹ cậu bằng mọi giá.",
+    "director": "James Cameron",
+    "actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",
+    "price": 85000,
+    "showtimes": [
+      "11:00",
+      "14:45",
+      "18:30",
+      "21:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "BuBD2s2NmEM",
+    "cast": [
+      {
+        "name": "Arnold Schwarzenegger",
+        "character": "The Terminator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4jM3vsHIEQVeNFifiTAUDVAmiUo.jpg"
+      },
+      {
+        "name": "Linda Hamilton",
+        "character": "Sarah Connor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+      },
+      {
+        "name": "Edward Furlong",
+        "character": "John Connor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e221dMIBgb6Lk092GIkHB9ohQF1.jpg"
+      },
+      {
+        "name": "Robert Patrick",
+        "character": "T-1000",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+      },
+      {
+        "name": "Earl Boen",
+        "character": "Dr. Silberman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+      },
+      {
+        "name": "Joe Morton",
+        "character": "Miles Dyson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+      },
+      {
+        "name": "S. Epatha Merkerson",
+        "character": "Tarissa Dyson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pXCmHxrWzlv1kPZSxJXFM45QgOP.jpg"
+      },
+      {
+        "name": "Castulo Guerra",
+        "character": "Enrique Salceda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYZihE7w1baKehLmDQb0eKEqYqF.jpg"
+      }
+    ]
+  },
+  {
+    "id": "157336",
+    "tmdb_id": 157336,
+    "title": "Hố Đen Tử Thần",
+    "original_title": "Interstellar",
+    "tagline": "Loài người sinh ra trên Trái Đất, nhưng không nhất thiết phải kết thúc tại đây.",
+    "genre": "Khoa Học Viễn Tưởng",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Phim Phiêu Lưu"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 878,
+        "name": "Phim Khoa Học Viễn Tưởng"
+      }
+    ],
+    "duration": 169,
+    "age": "T13",
+    "release": "2014-11-05",
+    "rating": 8.4,
+    "emoji": "🪐",
+    "poster": "poster-space",
+    "poster_url": "https://image.tmdb.org/t/p/w500/if4TI9LbqNIrzkoOgWjX5PZYDYe.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+    "description": "Khi Trái Đất dần cạn kiệt tài nguyên và không còn khả năng nuôi sống nhân loại, cựu phi công NASA Cooper buộc phải rời xa gia đình để dẫn đầu chuyến thám hiểm xuyên qua hố sâu vũ trụ nhằm tìm kiếm một hành tinh mới cho loài người.",
+    "director": "Christopher Nolan",
+    "actors": "Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain",
+    "price": 90000,
+    "showtimes": [
+      "09:30",
+      "13:30",
+      "17:15",
+      "20:45"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "QqSp_dwslro",
+    "cast": [
+      {
+        "name": "Matthew McConaughey",
+        "character": "Cooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Brand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Professor Brand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Murph",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+      },
+      {
+        "name": "Casey Affleck",
+        "character": "Tom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+      },
+      {
+        "name": "Wes Bentley",
+        "character": "Doyle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Getty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+      },
+      {
+        "name": "Mackenzie Foy",
+        "character": "Murph (10 Yrs.)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ga2HkX7gBjjXooegTu9cLgXy9nE.jpg"
+      }
+    ]
+  },
+  {
+    "id": "27205",
+    "tmdb_id": 27205,
+    "title": "Kẻ Đánh Cắp Giấc Mơ",
+    "original_title": "Inception",
+    "tagline": "Tâm trí bạn là hiện trường vụ án.",
+    "genre": "Khoa Học Viễn Tưởng",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      },
+      {
+        "id": 878,
+        "name": "Phim Khoa Học Viễn Tưởng"
+      },
+      {
+        "id": 12,
+        "name": "Phim Phiêu Lưu"
+      }
+    ],
+    "duration": 148,
+    "age": "T13",
+    "release": "2010-07-15",
+    "rating": 8.4,
+    "emoji": "🌀",
+    "poster": "poster-space",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eBtqGWtR5KUiNl6OXHLR3ri6nVm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "description": "Dom Cobb là bậc thầy đánh cắp bí mật thương mại bằng cách xâm nhập vào tiềm thức con người trong giấc mơ. Anh nhận lời thực hiện phi vụ bất khả thi ngược lại: gieo một ý tưởng vào sâu trong tâm trí mục tiêu để đổi lấy cơ hội trở về bên các con.",
+    "director": "Christopher Nolan",
+    "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Watanabe Ken, Tom Hardy",
+    "price": 90000,
+    "showtimes": [
+      "10:30",
+      "14:15",
+      "18:00",
+      "21:10"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "cdx31ak4KbQ",
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Dom Cobb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "character": "Arthur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+      },
+      {
+        "name": "Watanabe Ken",
+        "character": "Saito",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AqK1DSCibb8VuMO6t5qH1LVMIYG.jpg"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Eames",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+      },
+      {
+        "name": "Elliot Page",
+        "character": "Ariadne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
+      },
+      {
+        "name": "Dileep Rao",
+        "character": "Yusuf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRNn8SZqFXuI5wOOlHwYsWh0hXs.jpg"
+      },
+      {
+        "name": "Cillian Murphy",
+        "character": "Robert Fischer, Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+      },
+      {
+        "name": "Tom Berenger",
+        "character": "Peter Browning",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PSsSsFI1EpEvxifq8rPe3412iv.jpg"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "tmdb_id": 122,
+    "title": "Chúa Tể Những Chiếc Nhẫn: Sự Trở Lại Của Nhà Vua",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "tagline": "Không có chiến thắng nào không cần hy sinh.",
+    "genre": "Giả Tưởng",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Phim Phiêu Lưu"
+      },
+      {
+        "id": 14,
+        "name": "Phim Giả Tưởng"
+      },
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      }
+    ],
+    "duration": 201,
+    "age": "T13",
+    "release": "2003-12-17",
+    "rating": 8.5,
+    "emoji": "💍",
+    "poster": "poster-summer",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3Y6eymGHCfQkDKU6rev2WiqXMci.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+    "description": "Khi cuộc chiến quyết định số phận vùng Trung Địa bùng nổ tại Gondor, Aragorn đứng lên nhận lấy ngai vàng đích thực để dẫn dắt liên quân chống lại Sauron, trong khi Frodo và Sam tiến vào chặng đường khắc nghiệt cuối cùng tới Núi Hủy Diệt.",
+    "director": "Peter Jackson",
+    "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin",
+    "price": 95000,
+    "showtimes": [
+      "09:15",
+      "13:45",
+      "18:15"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "zckJCxYxn1g",
+    "cast": [
+      {
+        "name": "Elijah Wood",
+        "character": "Frodo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "name": "Ian McKellen",
+        "character": "Gandalf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "character": "Aragorn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Sean Astin",
+        "character": "Sam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+      },
+      {
+        "name": "Andy Serkis",
+        "character": "Gollum / Smeagol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+      },
+      {
+        "name": "Dominic Monaghan",
+        "character": "Merry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+      },
+      {
+        "name": "Billy Boyd",
+        "character": "Pippin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+      },
+      {
+        "name": "John Noble",
+        "character": "Denethor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+      }
+    ]
+  },
+  {
+    "id": "671",
+    "tmdb_id": 671,
+    "title": "Harry Potter và Hòn Đá Phù Thủy",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "tagline": "Hãy để phép màu bắt đầu.",
+    "genre": "Giả Tưởng",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Phim Phiêu Lưu"
+      },
+      {
+        "id": 14,
+        "name": "Phim Giả Tưởng"
+      }
+    ],
+    "duration": 152,
+    "age": "P",
+    "release": "2001-11-16",
+    "rating": 7.9,
+    "emoji": "⚡",
+    "poster": "poster-stars",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xDdgZkQ5Q3Jtnc2IhgAGQlPPCij.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+    "description": "Vào sinh nhật lần thứ 11, cậu bé mồ côi Harry Potter phát hiện mình là một phù thủy và nhận được thư nhập học vào Học viện Pháp thuật Hogwarts. Tại đây, cậu kết bạn cùng Ron và Hermione, đồng thời khám phá bí mật đen tối về cái chết của cha mẹ mình.",
+    "director": "Chris Columbus",
+    "actors": "Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris",
+    "price": 85000,
+    "showtimes": [
+      "09:00",
+      "12:30",
+      "16:00",
+      "19:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "Ow0pZlPoe6M",
+    "cast": [
+      {
+        "name": "Daniel Radcliffe",
+        "character": "Harry Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+      },
+      {
+        "name": "Rupert Grint",
+        "character": "Ron Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Hermione Granger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg"
+      },
+      {
+        "name": "Richard Harris",
+        "character": "Albus Dumbledore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+      },
+      {
+        "name": "Tom Felton",
+        "character": "Draco Malfoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Severus Snape",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EearzPgXkmYFKvECfWNrctIFT9.jpg"
+      },
+      {
+        "name": "Robbie Coltrane",
+        "character": "Hagrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kK4YIz7SUdhbPndApdi12CsZ43K.jpg"
+      },
+      {
+        "name": "Maggie Smith",
+        "character": "Professor McGonagall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hjoWy2WB7RayROumynH3wuCa9aL.jpg"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "tmdb_id": 129,
+    "title": "Vùng Đất Linh Hồn",
+    "original_title": "千と千尋の神隠し",
+    "tagline": "Đường hầm dẫn Chihiro đến một thị trấn bí ẩn...",
+    "genre": "Hoạt Hình",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Phim Hoạt Hình"
+      },
+      {
+        "id": 10751,
+        "name": "Phim Gia Đình"
+      },
+      {
+        "id": 14,
+        "name": "Phim Giả Tưởng"
+      }
+    ],
+    "duration": 125,
+    "age": "P",
+    "release": "2001-07-20",
+    "rating": 8.5,
+    "emoji": "🐉",
+    "poster": "poster-stars",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pNHppsjxGBcRUCFlXQh0briymTN.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+    "description": "Trên đường chuyển đến nhà mới, cô bé 10 tuổi Chihiro cùng cha mẹ vô tình lạc vào thế giới của các vị thần và linh hồn. Khi cha mẹ bị phù thủy Yubaba biến thành heo, Chihiro phải làm việc tại nhà tắm công cộng để tìm cách giải cứu gia đình và quay về thế giới loài người.",
+    "director": "宮崎駿",
+    "actors": "柊瑠美, Irino Miyu, 夏木マリ, 内藤剛志",
+    "price": 80000,
+    "showtimes": [
+      "09:15",
+      "12:00",
+      "15:00",
+      "18:15"
+    ],
+    "spoken_languages": [
+      "Tiếng Nhật"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "GAp2_0JJskk",
+    "cast": [
+      {
+        "name": "柊瑠美",
+        "character": "Chihiro (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg"
+      },
+      {
+        "name": "Irino Miyu",
+        "character": "Haku (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+      },
+      {
+        "name": "夏木マリ",
+        "character": "Yubaba / Zeniba (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg"
+      },
+      {
+        "name": "内藤剛志",
+        "character": "Father (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xwsm0ygjG79jLIogutwo6r64igy.jpg"
+      },
+      {
+        "name": "沢口靖子",
+        "character": "Mother (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rWspusb13VeJowmctnniXYYTcqq.jpg"
+      },
+      {
+        "name": "我修院達也",
+        "character": "Aogaeru (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+      },
+      {
+        "name": "Kamiki Ryunosuke",
+        "character": "Boh (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        "name": "玉井夕海",
+        "character": "Rin (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x9Td7e5F21cK9S1FCkobfqiJZ1c.jpg"
+      }
+    ]
+  },
+  {
+    "id": "372058",
+    "tmdb_id": 372058,
+    "title": "Tên Cậu Là Gì?",
+    "original_title": "君の名は。",
+    "tagline": "Dù ở bất cứ đâu trên thế giới này, tớ nhất định sẽ đến gặp cậu.",
+    "genre": "Hoạt Hình",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Phim Hoạt Hình"
+      },
+      {
+        "id": 10749,
+        "name": "Phim Lãng Mạn"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      }
+    ],
+    "duration": 106,
+    "age": "T13",
+    "release": "2016-08-26",
+    "rating": 8.5,
+    "emoji": "☄️",
+    "poster": "poster-stars",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yV8ARrvpWaWd509QM4LwMScNDvZ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+    "description": "Mitsuha—nữ sinh ở vùng quê hẻo lánh—và Taki—cậu học sinh sống tại Tokyo nhộn nhịp—bất ngờ hoán đổi thân xác cho nhau trong những giấc mơ. Khi cả hai quyết định lên đường đi tìm nhau ngoài đời thực, họ phát hiện ra một bí mật vượt qua cả không gian và thời gian.",
+    "director": "新海誠",
+    "actors": "Kamiki Ryunosuke, Kamishiraishi Mone, Narita Ryo, 悠木碧",
+    "price": 80000,
+    "showtimes": [
+      "10:00",
+      "13:15",
+      "16:45",
+      "19:45"
+    ],
+    "spoken_languages": [
+      "Tiếng Nhật"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "TYku4P7MHdo",
+    "cast": [
+      {
+        "name": "Kamiki Ryunosuke",
+        "character": "Taki Tachibana (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        "name": "Kamishiraishi Mone",
+        "character": "Mitsuha Miyamizu (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
+      },
+      {
+        "name": "Narita Ryo",
+        "character": "Katsuhiko Teshigawara (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nuDFEGyuL4b1u5JUNee7WmJfgp3.jpg"
+      },
+      {
+        "name": "悠木碧",
+        "character": "Sayaka Natori (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+      },
+      {
+        "name": "島﨑信長",
+        "character": "Tsukasa Fujii (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+      },
+      {
+        "name": "Ishikawa Kaito",
+        "character": "Shinta Takagi (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+      },
+      {
+        "name": "谷花音",
+        "character": "Yotsuha Miyamizu (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/udR4Cax2EecH3ZkATE4h6ejiGD9.jpg"
+      },
+      {
+        "name": "てらそままさき",
+        "character": "Toshiki Miyamizu (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eol7Ul4buAam9SmJDuFIWln0Cd3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "354912",
+    "tmdb_id": 354912,
+    "title": "Coco: Hội Ngộ Diệu Kỳ",
+    "original_title": "Coco",
+    "tagline": "Hãy nắm bắt khoảnh khắc của riêng bạn.",
+    "genre": "Hoạt Hình",
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Phim Gia Đình"
+      },
+      {
+        "id": 16,
+        "name": "Phim Hoạt Hình"
+      },
+      {
+        "id": 10402,
+        "name": "Phim Nhạc"
+      }
+    ],
+    "duration": 105,
+    "age": "P",
+    "release": "2017-10-27",
+    "rating": 8.2,
+    "emoji": "🎸",
+    "poster": "poster-summer",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tKd5zI6gLBwrqqyicHyRD3IyosW.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+    "description": "Bất chấp lệnh cấm âm nhạc kéo dài nhiều thế hệ trong gia đình, cậu bé Miguel vẫn nuôi dưỡng ước mơ trở thành nhạc sĩ. Vào ngày Lễ Người Chết, cậu vô tình lạc vào Vùng Đất Linh Hồn rực rỡ và khám phá câu chuyện thực sự đằng sau lịch sử gia đình mình.",
+    "director": "Lee Unkrich",
+    "actors": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach",
+    "price": 75000,
+    "showtimes": [
+      "09:00",
+      "11:30",
+      "14:15",
+      "17:00"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh",
+      "Tiếng Tây Ban Nha"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Lồng tiếng Việt"
+    ],
+    "trailer_youtube_key": "Rvr68u6k5sI",
+    "cast": [
+      {
+        "name": "Anthony Gonzalez",
+        "character": "Miguel Rivera (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WF7bn6t0LkxwBWyDMWvomVujn7.jpg"
+      },
+      {
+        "name": "Gael García Bernal",
+        "character": "Héctor (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
+      },
+      {
+        "name": "Benjamin Bratt",
+        "character": "Ernesto de la Cruz (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+      },
+      {
+        "name": "Alanna Ubach",
+        "character": "Mamá Imelda (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+      },
+      {
+        "name": "Renée Victor",
+        "character": "Abuelita (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wAVDqwFhQsRQgO6VIYq6T9Wbbx8.jpg"
+      },
+      {
+        "name": "Jaime Camil",
+        "character": "Papá (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/njvdXEGN3bSSXpsyVnyKQTXdf1V.jpg"
+      },
+      {
+        "name": "Alfonso Arau",
+        "character": "Papá Julio (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ishPim5akWXSnMbwOWSc3KxDx8.jpg"
+      },
+      {
+        "name": "Herbert Siguenza",
+        "character": "Tío Oscar / Tío Felipe (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aVLX3sRMZp1qIfqCRHgjjy2NfGI.jpg"
+      }
+    ]
+  },
+  {
+    "id": "10193",
+    "tmdb_id": 10193,
+    "title": "Câu Chuyện Đồ Chơi 3",
+    "original_title": "Toy Story 3",
+    "tagline": "Không một món đồ chơi nào bị bỏ lại phía sau.",
+    "genre": "Hoạt Hình",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Phim Hoạt Hình"
+      },
+      {
+        "id": 10751,
+        "name": "Phim Gia Đình"
+      },
+      {
+        "id": 35,
+        "name": "Phim Hài"
+      }
+    ],
+    "duration": 103,
+    "age": "P",
+    "release": "2010-06-16",
+    "rating": 7.8,
+    "emoji": "🤠",
+    "poster": "poster-summer",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1X96GIP5RAErgDXjH0ZP1anv0m1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "description": "Khi Andy chuẩn bị lên đại học, Woody, Buzz Lightyear và nhóm bạn đồ chơi vô tình bị quyên góp đến nhà trẻ Sunnyside. Tưởng chừng đây là thiên đường mới, nhưng họ sớm nhận ra sự thật đằng sau chú gấu Lotso và phải lập kế hoạch tẩu thoát ngoạn mục.",
+    "director": "Lee Unkrich",
+    "actors": "Tom Hanks, Tim Allen, Joan Cusack, Don Rickles",
+    "price": 75000,
+    "showtimes": [
+      "08:45",
+      "11:15",
+      "14:00",
+      "16:45"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Lồng tiếng Việt"
+    ],
+    "trailer_youtube_key": "6c3K7LhA9Yc",
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Woody (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Tim Allen",
+        "character": "Buzz Lightyear (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k8XPNHBO459FaqkqqM4tfX5GMKk.jpg"
+      },
+      {
+        "name": "Joan Cusack",
+        "character": "Jessie (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+      },
+      {
+        "name": "Don Rickles",
+        "character": "Mr. Potato Head (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+      },
+      {
+        "name": "Wallace Shawn",
+        "character": "Rex (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "Hamm (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+      },
+      {
+        "name": "Estelle Harris",
+        "character": "Mrs. Potato Head (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8L9umRwdjVs9CysJW24hhm2wNZ2.jpg"
+      },
+      {
+        "name": "Blake Clark",
+        "character": "Slinky Dog (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pA4OZQPyATEX9AqZYUIOItQ447o.jpg"
+      }
+    ]
+  },
+  {
+    "id": "618010",
+    "tmdb_id": 618010,
+    "title": "Mắt Biếc",
+    "original_title": "Mắt Biếc",
+    "tagline": "Có hai thứ không thể bỏ lỡ trong đời: chuyến tàu cuối cùng và người thật lòng yêu ta.",
+    "genre": "Lãng Mạn",
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Phim Lãng Mạn"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      }
+    ],
+    "duration": 117,
+    "age": "T16",
+    "release": "2019-12-20",
+    "rating": 7.4,
+    "emoji": "👁️",
+    "poster": "poster-train",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aa7a3oVW3frg5HO2jBCiofX0eND.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/DwTyJZKMH7rcJFDpQ5X3fZs6K9.jpg",
+    "description": "Chuyển thể từ tiểu thuyết nổi tiếng của nhà văn Nguyễn Nhật Ánh, bộ phim kể về mối tình đơn phương sâu nặng kéo dài từ thuở thiếu thời đến khi trưởng thành của chàng trai làng Đo Đo tên Ngạn dành cho Hà Lan—cô gái sở hữu đôi mắt biếc nhưng lại trót say mê phồn hoa đô thị.",
+    "director": "Victor Vũ",
+    "actors": "Trần Nghĩa, Trúc Anh, Trần Phong, Đỗ Khánh Vân",
+    "price": 80000,
+    "showtimes": [
+      "10:15",
+      "14:00",
+      "17:45",
+      "20:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Việt"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "MNm77lvTfi4",
+    "cast": [
+      {
+        "name": "Trần Nghĩa",
+        "character": "Ngạn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nSLnQ68QI6A2gBLqbckiO4svXhY.jpg"
+      },
+      {
+        "name": "Trúc Anh",
+        "character": "Hà Lan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i4ngGFyXaF3uR154cB3Q8fj4HIp.jpg"
+      },
+      {
+        "name": "Trần Phong",
+        "character": "Dũng",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yyo21x77snrp3YtWvSABubTD5R0.jpg"
+      },
+      {
+        "name": "Đỗ Khánh Vân",
+        "character": "Trà Long",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v2GMkhOem8J7YKUaSjrLyTSvLnF.jpg"
+      },
+      {
+        "name": "Thảo Tâm",
+        "character": "Hồng",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6hG3f0FHni6rFd0O8m96BuNOJ39.jpg"
+      },
+      {
+        "name": "Hưng Võ",
+        "character": "Ngọc",
+        "profile_path": null
+      },
+      {
+        "name": "Phạm Đình Thái Ngân",
+        "character": "Ngạn's Voice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfxjOOB7JfTMbUNHOm26kgPsGQy.jpg"
+      },
+      {
+        "name": "Lâm Bảo Danh",
+        "character": "6-Year-Old Ngạn",
+        "profile_path": null
+      }
+    ]
+  },
+  {
+    "id": "597",
+    "tmdb_id": 597,
+    "title": "Titanic",
+    "original_title": "Titanic",
+    "tagline": "Không gì trên Trái Đất có thể chia lìa họ.",
+    "genre": "Lãng Mạn",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 10749,
+        "name": "Phim Lãng Mạn"
+      }
+    ],
+    "duration": 194,
+    "age": "T13",
+    "release": "1997-11-18",
+    "rating": 7.9,
+    "emoji": "🚢",
+    "poster": "poster-train",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yC2waNaokYeCRHSsYMB8DJK7rGS.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+    "description": "Trên chuyến hải trình đầu tiên của con tàu huyền thoại RMS Titanic năm 1912, nàng tiểu thư quý tộc Rose và chàng họa sĩ nghèo Jack đã nảy sinh một tình yêu nồng cháy vượt qua rào cản giai cấp—ngay trước khi thảm họa đâm phải tảng băng trôi ập xuống Đại Tây Dương.",
+    "director": "James Cameron",
+    "actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+    "price": 90000,
+    "showtimes": [
+      "09:30",
+      "14:00",
+      "18:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "gs5GwXOgumc",
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Jack Dawson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Rose DeWitt Bukater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cPRq7uH3PIFcHilP15BrMKunink.jpg"
+      },
+      {
+        "name": "Billy Zane",
+        "character": "Cal Hockley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "character": "Molly Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
+      },
+      {
+        "name": "Frances Fisher",
+        "character": "Ruth DeWitt Bukater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+      },
+      {
+        "name": "Gloria Stuart",
+        "character": "Old Rose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9aG7UUX3PWIGGf1KRY5TsBSoNz9.jpg"
+      },
+      {
+        "name": "Bill Paxton",
+        "character": "Brock Lovett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+      },
+      {
+        "name": "Bernard Hill",
+        "character": "Captain Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "tmdb_id": 13,
+    "title": "Forrest Gump",
+    "original_title": "Forrest Gump",
+    "tagline": "Cuộc đời giống như một hộp sô-cô-la, bạn sẽ không bao giờ biết mình nhận được gì.",
+    "genre": "Chính Kịch",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Phim Hài"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 10749,
+        "name": "Phim Lãng Mạn"
+      }
+    ],
+    "duration": 142,
+    "age": "T13",
+    "release": "1994-06-23",
+    "rating": 8.5,
+    "emoji": "🪶",
+    "poster": "poster-summer",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yvEDqdIQnYUahG6oY9bKHMubqp8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "description": "Dù có chỉ số IQ thấp hơn người bình thường, chàng trai tốt bụng Forrest Gump với trái tim chân thành đã vô tình đi qua và góp mặt trong hàng loạt sự kiện lịch sử quan trọng của nước Mỹ thế kỷ 20, trong khi vẫn luôn hướng về tình yêu duy nhất của đời mình là Jenny.",
+    "director": "Robert Zemeckis",
+    "actors": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field",
+    "price": 85000,
+    "showtimes": [
+      "09:45",
+      "13:15",
+      "16:45",
+      "20:00"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "0jKUpBmYO1Q",
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Forrest Gump",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Jenny Curran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Lieutenant Dan Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+      },
+      {
+        "name": "Sally Field",
+        "character": "Mrs. Gump",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Bubba Blue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "name": "Michael Conner Humphreys",
+        "character": "Young Forrest Gump",
+        "profile_path": "https://image.tmdb.org/t/p/w185/irYRs3COggVHg91jL3CrlCIWmnx.jpg"
+      },
+      {
+        "name": "Hanna Hall",
+        "character": "Young Jenny Curran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+      },
+      {
+        "name": "Haley Joel Osment",
+        "character": "Forrest Junior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1210973",
+    "tmdb_id": 1210973,
+    "title": "Mai",
+    "original_title": "Mai",
+    "tagline": "Quá khứ chưa ngủ yên, ngày mai liệu có đến?",
+    "genre": "Lãng Mạn",
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Phim Lãng Mạn"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      }
+    ],
+    "duration": 131,
+    "age": "T18",
+    "release": "2024-02-10",
+    "rating": 7.1,
+    "emoji": "🌸",
+    "poster": "poster-train",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/zZ6nRdNQNxRnZ1LQ2ttPBZl9AXV.jpg",
+    "description": "Mai là một phụ nữ gần 40 tuổi làm nghề mát-xa với quá khứ nhiều tổn thương. Cuộc sống lặng lẽ của cô bỗng đổi thay khi gặp Dương—chàng nhạc sĩ trẻ đào hoa sống cùng khu chung cư—mở ra một chuyện tình sâu sắc nhưng đầy thử thách trước định kiến gia đình và xã hội.",
+    "director": "Trấn Thành",
+    "actors": "Phương Anh Đào, Tuấn Trần, Trấn Thành, Hồng Đào",
+    "price": 85000,
+    "showtimes": [
+      "10:00",
+      "13:30",
+      "17:00",
+      "20:15"
+    ],
+    "spoken_languages": [
+      "Tiếng Việt"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "Yz96EBNwMGw",
+    "cast": [
+      {
+        "name": "Phương Anh Đào",
+        "character": "Mai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fQB9fzInrYp2PMkcu9Wcx5GLmYG.jpg"
+      },
+      {
+        "name": "Tuấn Trần",
+        "character": "Dương",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ruyYz6Lah3UYSuFYCR02jsAGRW.jpg"
+      },
+      {
+        "name": "Trấn Thành",
+        "character": "Mr. Hoàng",
+        "profile_path": "https://image.tmdb.org/t/p/w185/srIchVGBqzMVJ1mracvGV9qHUmM.jpg"
+      },
+      {
+        "name": "Hồng Đào",
+        "character": "Mrs. Đào",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pQJYetiMP21NBQaMdeO6MgP7D12.jpg"
+      },
+      {
+        "name": "Uyển Ân",
+        "character": "Bình Minh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vOgAPBWOVGYop90Bm4RWuMP7cQC.jpg"
+      },
+      {
+        "name": "Ngọc Giàu",
+        "character": "Má Mi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yOxGQAOLDOkvIUd3hRf2ue0R21e.jpg"
+      },
+      {
+        "name": "Việt Anh",
+        "character": "Uncle Út",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mhaPFrvld8b3dvYGpHP9Jw1ExZy.jpg"
+      },
+      {
+        "name": "Kim Phương",
+        "character": "Procurer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hNydn4WunV3A6GnLar7gU01QxY0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "787459",
+    "tmdb_id": 787459,
+    "title": "Bố Già",
+    "original_title": "Bố Già",
+    "tagline": "Chúng ta có nhiều thời gian, nhưng bố mẹ thì không.",
+    "genre": "Hài",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Phim Hài"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 10751,
+        "name": "Phim Gia Đình"
+      }
+    ],
+    "duration": 128,
+    "age": "T13",
+    "release": "2021-03-12",
+    "rating": 7.2,
+    "emoji": "🏠",
+    "poster": "poster-summer",
+    "poster_url": "https://image.tmdb.org/t/p/w500/WoFe2UXDzLAZAk6aFxcOkBXyfT.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/qJbXpfICmJAh911109wPSBNf0UO.jpg",
+    "description": "Xoay quanh cuộc sống trong một con hẻm lao động tại Sài Gòn, ông Ba Sang—người cha nghèo hay bao đồng và luôn hy sinh vì gia đình—thường xuyên xảy ra mâu thuẫn thế hệ với cậu con trai Quắn làm YouTuber. Qua những biến cố, cả hai dần học cách thấu hiểu và yêu thương nhau hơn.",
+    "director": "Trấn Thành",
+    "actors": "Trấn Thành, Tuấn Trần, Ngân Chi, Ngọc Giàu",
+    "price": 80000,
+    "showtimes": [
+      "09:30",
+      "12:45",
+      "16:15",
+      "19:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Việt"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "jluSu8Rw6YE",
+    "cast": [
+      {
+        "name": "Trấn Thành",
+        "character": "Ba Sang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/srIchVGBqzMVJ1mracvGV9qHUmM.jpg"
+      },
+      {
+        "name": "Tuấn Trần",
+        "character": "Quắn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ruyYz6Lah3UYSuFYCR02jsAGRW.jpg"
+      },
+      {
+        "name": "Ngân Chi",
+        "character": "Bù Tọt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kkf1M4oTgFCGSKzO7KBJQDJ2eN.jpg"
+      },
+      {
+        "name": "Ngọc Giàu",
+        "character": "Hai Giàu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yOxGQAOLDOkvIUd3hRf2ue0R21e.jpg"
+      },
+      {
+        "name": "Lê Giang",
+        "character": "Cẩm Lệ",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NAbFJklBzBgKNwnYuD5nBSklTE.jpg"
+      },
+      {
+        "name": "Hoàng Mèo",
+        "character": "Tư Phú",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nB9GkTMSqkndDu2VpaWeUp6XCG8.jpg"
+      },
+      {
+        "name": "Lan Phương",
+        "character": "thím Ánh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ssmkCMugcWBD9KOetbXFaO6nMr5.jpg"
+      },
+      {
+        "name": "Quốc Khánh",
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ZA2oJnkbzJYu4BKnGcDAcVVpJk.jpg"
+      }
+    ]
+  },
+  {
+    "id": "20453",
+    "tmdb_id": 20453,
+    "title": "Ba Chàng Ngốc",
+    "original_title": "3 Idiots",
+    "tagline": "Hãy theo đuổi sự ưu tú, thành công sẽ tự tìm đến bạn.",
+    "genre": "Hài",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 35,
+        "name": "Phim Hài"
+      }
+    ],
+    "duration": 170,
+    "age": "T13",
+    "release": "2009-12-25",
+    "rating": 8,
+    "emoji": "🎓",
+    "poster": "poster-summer",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gmSRHU1Wtiatj8KoyVt8rT9ockx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/u7kuUaySqXBVAtqEl9vkTkAzHV9.jpg",
+    "description": "Hai người bạn thân Farhan và Raju lên đường tìm kiếm người bạn đại học mất tích Rancho. Hành trình gợi lại những kỷ niệm dở khóc dở cười thời sinh viên tại Học viện Kỹ thuật Hoàng gia, nơi Rancho từng truyền cảm hứng giúp họ sống đúng với đam mê thay vì chạy theo áp lực điểm số.",
+    "director": "Rajkumar Hirani",
+    "actors": "आमिर ख़ान, R. Madhavan, Sharman Joshi, करीना कपूर खान",
+    "price": 80000,
+    "showtimes": [
+      "09:00",
+      "13:00",
+      "17:00",
+      "20:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Hindi"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "zIKu9k50SDo",
+    "cast": [
+      {
+        "name": "आमिर ख़ान",
+        "character": "Ranchoddas \"Rancho\" Chanchad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6uiZSwi2kvd1jZ7X7Xz9W9VGuV4.jpg"
+      },
+      {
+        "name": "R. Madhavan",
+        "character": "Farhan Qureshi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gaDrAdXxIrbBRCd9cX8YvJDEuLb.jpg"
+      },
+      {
+        "name": "Sharman Joshi",
+        "character": "Raju Rastogi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mQr8ynFFVq08qgQ4aSNl5B0ko8v.jpg"
+      },
+      {
+        "name": "करीना कपूर खान",
+        "character": "Pia Sahastrabudhhe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kp9xnwDALUt6nuPBGuJHlvnxGnM.jpg"
+      },
+      {
+        "name": "Boman Irani",
+        "character": "Viru \"Virus\" Sahastrabudhhe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg"
+      },
+      {
+        "name": "Omi Vaidya",
+        "character": "Chatur \"Silencer\" Ramalingam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/G37HGmfBM8b6pTczZrpJmTFIGl.jpg"
+      },
+      {
+        "name": "Mona Singh",
+        "character": "Mona Sahastrabuddhe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBl5KYnlKY8HDUqlTs64xbDZtU8.jpg"
+      },
+      {
+        "name": "Rahul Kumar",
+        "character": "Millimeter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pYw7c1T0ifdvWMUtUJl3GMkx4aP.jpg"
+      }
+    ]
+  },
+  {
+    "id": "9470",
+    "tmdb_id": 9470,
+    "title": "Tuyệt Đỉnh Kung Fu",
+    "original_title": "功夫",
+    "tagline": "Kẻ vô danh trở thành huyền thoại.",
+    "genre": "Hài",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      },
+      {
+        "id": 35,
+        "name": "Phim Hài"
+      },
+      {
+        "id": 80,
+        "name": "Phim Hình Sự"
+      },
+      {
+        "id": 14,
+        "name": "Phim Giả Tưởng"
+      }
+    ],
+    "duration": 99,
+    "age": "T16",
+    "release": "2004-02-10",
+    "rating": 7.5,
+    "emoji": "🥋",
+    "poster": "poster-time",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ovf1rxwez1ORpHxZ0fNmF5fLi2C.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/4JKluvwcYvhkTNvWP5N3kcUNsPl.jpg",
+    "description": "Tại Thượng Hải những năm 1940 hỗn loạn, gã lang thang Tinh luôn mơ ước gia nhập băng Lưỡi Búa khét tiếng. Khi hắn gây sự tại khu Chuồng Heo nghèo khổ, những cao thủ võ lâm ẩn danh sống tại đây buộc phải lộ diện, dẫn đến trận quyết chiến võ thuật kinh thiên động địa.",
+    "director": "Châu Tinh Trì",
+    "actors": "Châu Tinh Trì, Nguyên Thu, Nguyên Hoa, 林子聰",
+    "price": 80000,
+    "showtimes": [
+      "10:30",
+      "13:45",
+      "17:15",
+      "20:00"
+    ],
+    "spoken_languages": [
+      "Tiếng Quảng Đông"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Lồng tiếng Việt"
+    ],
+    "trailer_youtube_key": "-m3IB7N_PRk",
+    "cast": [
+      {
+        "name": "Châu Tinh Trì",
+        "character": "Sing",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vCCyAspvQDFmOB2SJj0X7Wr2gil.jpg"
+      },
+      {
+        "name": "Nguyên Thu",
+        "character": "Landlady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5S70RuTmpHXCcyZNzx1sTjamOKw.jpg"
+      },
+      {
+        "name": "Nguyên Hoa",
+        "character": "Landlord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMkMgs0tWlJXdTjYkiMcjvhYnRw.jpg"
+      },
+      {
+        "name": "林子聰",
+        "character": "Sing's Sidekick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4lA8TnRYSZBysNvZLMdNe1UoIK9.jpg"
+      },
+      {
+        "name": "Lương Tiểu Long",
+        "character": "The Beast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cnedCzQ3mWJxLW2OLIBnYQgfWa6.jpg"
+      },
+      {
+        "name": "Huỳnh Thánh Y",
+        "character": "Fong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lxVYMxTcFbyySIL5Zm37Gsjvpuy.jpg"
+      },
+      {
+        "name": "Trần Quốc Khôn",
+        "character": "Brother Sum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rOhOd8Y2QjOXQFQj7nZItPC2MFh.jpg"
+      },
+      {
+        "name": "Triệu Chí Lăng",
+        "character": "Tailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bYp1SVUMdZcpSpDvIGgptiVUatj.jpg"
+      }
+    ]
+  },
+  {
+    "id": "138843",
+    "tmdb_id": 138843,
+    "title": "Ám Ảnh Kinh Hoàng",
+    "original_title": "The Conjuring",
+    "tagline": "Dựa trên câu chuyện có thật của gia đình Perron.",
+    "genre": "Kinh Dị",
+    "genres": [
+      {
+        "id": 27,
+        "name": "Phim Kinh Dị"
+      },
+      {
+        "id": 53,
+        "name": "Phim Gây Cấn"
+      }
+    ],
+    "duration": 112,
+    "age": "T18",
+    "release": "2013-07-18",
+    "rating": 7.5,
+    "emoji": "🕯️",
+    "poster": "poster-night",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qic7Xa1fnwLyEsjvjapDTEMYXsR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
+    "description": "Hai nhà điều tra hiện tượng siêu nhiên nổi tiếng Ed và Lorraine Warren được mời đến giúp đỡ gia đình Perron vừa chuyển vào một trang trại hẻo lánh. Tại đây, họ phải đối mặt với một thực thể tà ác khủng khiếp nhất trong suốt sự nghiệp trừ tà của mình.",
+    "director": "James Wan",
+    "actors": "Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston",
+    "price": 90000,
+    "showtimes": [
+      "14:00",
+      "17:30",
+      "20:15",
+      "22:15"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "k10ETZ41q5o",
+    "cast": [
+      {
+        "name": "Vera Farmiga",
+        "character": "Lorraine Warren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Ed Warren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+      },
+      {
+        "name": "Lili Taylor",
+        "character": "Carolyn Perron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+      },
+      {
+        "name": "Ron Livingston",
+        "character": "Roger Perron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+      },
+      {
+        "name": "Hayley McFarland",
+        "character": "Nancy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mapxc0eyuNFqj9IybLmMIofhuzF.jpg"
+      },
+      {
+        "name": "Sterling Jerins",
+        "character": "Judy Warren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVqbOn2xRwn12MisEXUnaRZiP8L.jpg"
+      },
+      {
+        "name": "Shanley Caswell",
+        "character": "Andrea",
+        "profile_path": null
+      },
+      {
+        "name": "Mackenzie Foy",
+        "character": "Cindy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ga2HkX7gBjjXooegTu9cLgXy9nE.jpg"
+      }
+    ]
+  },
+  {
+    "id": "396535",
+    "tmdb_id": 396535,
+    "title": "Chuyến Tàu Sinh Tử",
+    "original_title": "부산행",
+    "tagline": "Sống sót đến ga cuối cùng.",
+    "genre": "Kinh Dị",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Phim Hành Động"
+      },
+      {
+        "id": 27,
+        "name": "Phim Kinh Dị"
+      },
+      {
+        "id": 53,
+        "name": "Phim Gây Cấn"
+      }
+    ],
+    "duration": 118,
+    "age": "T16",
+    "release": "2016-07-20",
+    "rating": 7.8,
+    "emoji": "🚆",
+    "poster": "poster-night",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xMAMpuKpqXI3tfWow59oInjfoPA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
+    "description": "Khi một loại virus bí ẩn biến con người thành xác sống bùng phát trên khắp Hàn Quốc, ông bố bận rộn Seok-woo cùng cô con gái nhỏ Soo-an và những hành khách trên chuyến tàu cao tốc KTX đi Busan phải chiến đấu sinh tử qua từng toa tàu để giữ mạng sống.",
+    "director": "연상호",
+    "actors": "공유, 김수안, 정유미, Ma Dong-seok",
+    "price": 90000,
+    "showtimes": [
+      "11:00",
+      "15:15",
+      "19:30",
+      "22:00"
+    ],
+    "spoken_languages": [
+      "Tiếng Hàn"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "4qm59Rcq1Fw",
+    "cast": [
+      {
+        "name": "공유",
+        "character": "Seok-woo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
+      },
+      {
+        "name": "김수안",
+        "character": "Seo Soo-ahn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hmPZhhoeUY89Rys6LrsjpTMeoEN.jpg"
+      },
+      {
+        "name": "정유미",
+        "character": "Sung-gyeong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pU8iBcZHhuc4kQe6HHZVcommefG.jpg"
+      },
+      {
+        "name": "Ma Dong-seok",
+        "character": "Sang-hwa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xqnARIEzfyr3BalhFBWHmCusLKH.jpg"
+      },
+      {
+        "name": "Choi Woo-shik",
+        "character": "Min Yeong-guk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9mZ9DNopxpCLUjXd0rLd42TLamw.jpg"
+      },
+      {
+        "name": "안소희",
+        "character": "Jin-hee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/phQLXdKnWggfiqlvUKj86Kq0T1q.jpg"
+      },
+      {
+        "name": "김의성",
+        "character": "Yong-suk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7T2LJyorTK2NDk10yeTINWKrWR.jpg"
+      },
+      {
+        "name": "예수정",
+        "character": "In-gil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rwGPhu8Ge36eMkrOlzfdKKFargw.jpg"
+      }
+    ]
+  },
+  {
+    "id": "496243",
+    "tmdb_id": 496243,
+    "title": "Ký Sinh Trùng",
+    "original_title": "기생충",
+    "tagline": "Hành động như thể bạn sở hữu nơi này.",
+    "genre": "Gây Cấn",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Phim Hài"
+      },
+      {
+        "id": 53,
+        "name": "Phim Gây Cấn"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      }
+    ],
+    "duration": 133,
+    "age": "T18",
+    "release": "2019-05-30",
+    "rating": 8.5,
+    "emoji": "🍑",
+    "poster": "poster-night",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zZydO1LhMhqDAMM86JUi241wT7X.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+    "description": "Gia đình ông Ki-taek sống trong căn hầm chật chội, thất nghiệp và chật vật mưu sinh. Khi cậu con trai Ki-woo nhận được công việc gia sư cho gia đình tài phiệt họ Park, từng thành viên nhà họ Ki bắt đầu giăng bẫy tinh vi để thâm nhập vào căn biệt thự sang trọng—cho đến khi một bí mật rùng rợn bị phơi bày.",
+    "director": "Bong Joon Ho",
+    "actors": "송강호, 이선균, 조여정, Choi Woo-shik",
+    "price": 90000,
+    "showtimes": [
+      "10:45",
+      "14:30",
+      "18:15",
+      "21:15"
+    ],
+    "spoken_languages": [
+      "Tiếng Hàn"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "o3ESQWArU2w",
+    "cast": [
+      {
+        "name": "송강호",
+        "character": "Kim Ki-taek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
+      },
+      {
+        "name": "이선균",
+        "character": "Park Dong-ik",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
+      },
+      {
+        "name": "조여정",
+        "character": "Yeon-kyo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+      },
+      {
+        "name": "Choi Woo-shik",
+        "character": "Ki-woo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9mZ9DNopxpCLUjXd0rLd42TLamw.jpg"
+      },
+      {
+        "name": "박소담",
+        "character": "Ki-jung",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fGVOikpvivopeATDy6ZzLdKYXDu.jpg"
+      },
+      {
+        "name": "Lee Jung-eun",
+        "character": "Moon-gwang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+      },
+      {
+        "name": "Jang Hye-jin",
+        "character": "Chung-sook",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
+      },
+      {
+        "name": "박명훈",
+        "character": "Geun-se",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5SucrxkigHss7UuJKrkfAZX5MXz.jpg"
+      }
+    ]
+  },
+  {
+    "id": "313369",
+    "tmdb_id": 313369,
+    "title": "Những Kẻ Khờ Mộng Mơ",
+    "original_title": "La La Land",
+    "tagline": "Dành cho những kẻ khờ luôn biết mơ mộng.",
+    "genre": "Âm Nhạc",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Phim Hài"
+      },
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 10749,
+        "name": "Phim Lãng Mạn"
+      },
+      {
+        "id": 10402,
+        "name": "Phim Nhạc"
+      }
+    ],
+    "duration": 129,
+    "age": "T13",
+    "release": "2016-11-29",
+    "rating": 7.9,
+    "emoji": "🎹",
+    "poster": "poster-stars",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gN1VfkONPYb7frEKfpCFTHRMxj3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "description": "Giữa lòng Los Angeles rực rỡ, nữ diễn viên đầy tham vọng Mia và chàng nghệ sĩ nhạc jazz tâm huyết Sebastian tình cờ gặp gỡ và phải lòng nhau. Nhưng khi sự nghiệp của cả hai bắt đầu thăng hoa, những lựa chọn giữa tình yêu và ước mơ dần kéo họ về hai hướng khác nhau.",
+    "director": "Damien Chazelle",
+    "actors": "Ryan Gosling, Emma Stone, John Legend, Rosemarie DeWitt",
+    "price": 85000,
+    "showtimes": [
+      "10:00",
+      "13:30",
+      "17:00",
+      "20:15"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "Zfy4rGzZDes",
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Sebastian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Mia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+      },
+      {
+        "name": "John Legend",
+        "character": "Keith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mvEUY4XURqTHSxnIDmEW1rcIxgm.jpg"
+      },
+      {
+        "name": "Rosemarie DeWitt",
+        "character": "Laura",
+        "profile_path": "https://image.tmdb.org/t/p/w185/44sxIdGtYN24R14OmnZbCpcd8J8.jpg"
+      },
+      {
+        "name": "Finn Wittrock",
+        "character": "Greg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gwGMGTmli0uBF7eAhhXePWhYNFJ.jpg"
+      },
+      {
+        "name": "Callie Hernandez",
+        "character": "Tracy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/doMXlhTAYCy8gH43yYA6m9ymxhd.jpg"
+      },
+      {
+        "name": "Sonoya Mizuno",
+        "character": "Caitlin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+      },
+      {
+        "name": "Jessica Rothe",
+        "character": "Alexis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+      }
+    ]
+  },
+  {
+    "id": "278",
+    "tmdb_id": 278,
+    "title": "Nhà Tù Shawshank",
+    "original_title": "The Shawshank Redemption",
+    "tagline": "Nỗi sợ giữ bạn làm tù nhân. Hy vọng sẽ trả tự do cho bạn.",
+    "genre": "Chính Kịch",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Phim Chính Kịch"
+      },
+      {
+        "id": 80,
+        "name": "Phim Hình Sự"
+      }
+    ],
+    "duration": 142,
+    "age": "T16",
+    "release": "1994-09-23",
+    "rating": 8.7,
+    "emoji": "🗝️",
+    "poster": "poster-time",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hOHhVYz9SFtwryNL0oxsSntoYXq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+    "description": "Bị kết án oan chung thân vì tội sát hại vợ và nhân tình vào năm 1947, cựu phó giám đốc ngân hàng Andy Dufresne bị giam tại nhà tù khắc nghiệt Shawshank. Trong suốt hai thập kỷ, anh kết giao tình bạn tri kỷ với Red và âm thầm nuôi dưỡng niềm hy vọng tự do phi thường.",
+    "director": "Frank Darabont",
+    "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+    "price": 85000,
+    "showtimes": [
+      "09:30",
+      "13:15",
+      "17:00",
+      "20:30"
+    ],
+    "spoken_languages": [
+      "Tiếng Anh"
+    ],
+    "subtitles": [
+      "Phụ đề Tiếng Việt",
+      "Phụ đề Tiếng Anh"
+    ],
+    "trailer_youtube_key": "PLl99DlL6b4",
+    "cast": [
+      {
+        "name": "Tim Robbins",
+        "character": "Andy Dufresne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Ellis Boyd 'Red' Redding",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+      },
+      {
+        "name": "Bob Gunton",
+        "character": "Warden Norton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+      },
+      {
+        "name": "William Sadler",
+        "character": "Heywood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+      },
+      {
+        "name": "Clancy Brown",
+        "character": "Captain Byron T. Hadley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+      },
+      {
+        "name": "Gil Bellows",
+        "character": "Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+      },
+      {
+        "name": "James Whitmore",
+        "character": "Brooks Hatlen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYMAbkfwFIgKK84vnLoQctI6vHg.jpg"
+      },
+      {
+        "name": "Mark Rolston",
+        "character": "Bogs Diamond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+      }
+    ]
+  }
+]

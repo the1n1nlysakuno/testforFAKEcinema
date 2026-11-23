@@ -1,0 +1,5 @@
+[
+  { "id": "rap-ha-noi", "name": "Rạp demo Hà Nội", "city": "Hà Nội", "address": "Địa điểm minh họa, Hà Nội", "rooms": 5 },
+  { "id": "rap-ha-dong", "name": "Rạp demo Hà Đông", "city": "Hà Nội", "address": "Địa điểm minh họa, Hà Đông, Hà Nội", "rooms": 4 },
+  { "id": "rap-hcm", "name": "Rạp demo TP. Hồ Chí Minh", "city": "TP. Hồ Chí Minh", "address": "Địa điểm minh họa, TP. Hồ Chí Minh", "rooms": 6 }
+]

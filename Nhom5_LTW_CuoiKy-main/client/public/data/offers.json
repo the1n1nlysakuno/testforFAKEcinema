@@ -1,0 +1,26 @@
+[
+  {
+    "id": "the-cung-comeback",
+    "title": "THẺ CỨNG ‘COME BACK’, GIAO DIỆN THẬT OÁCH!",
+    "category": "Thành viên",
+    "short": "Thẻ thành viên tiêu chuẩn và U22 quay trở lại với diện mạo mới.",
+    "date": "19/11/2026",
+    "style": "offer-purple"
+  },
+  {
+    "id": "ngay-hoi-dien-anh",
+    "title": "NGÀY HỘI ĐIỆN ẢNH - ƯU ĐÃI VÉ",
+    "category": "Khuyến mãi",
+    "short": "Khám phá chương trình ưu đãi mẫu dành cho khán giả yêu điện ảnh.",
+    "date": "18/11/2026",
+    "style": "offer-orange"
+  },
+  {
+    "id": "combo-bap-nuoc",
+    "title": "COMBO BẮP NƯỚC CHO BUỔI HẸN HÒ",
+    "category": "Dịch vụ",
+    "short": "Tham khảo những món ăn nhẹ quen thuộc khi xem phim tại rạp.",
+    "date": "16/11/2026",
+    "style": "offer-red"
+  }
+]
